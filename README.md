@@ -13,6 +13,19 @@ A simple utility to toggle password visibility in forms. Users can switch betwee
 
 ---
 
+### Expanding Cards
+
+An interactive UI component where users can click on any card in a set to expand it, revealing more information while compressing the other cards. This feature creates a dynamic and engaging interface, making content presentation more appealing.
+
+- **Technology**: HTML, CSS, JavaScript
+- **Features**:
+  - **Card Expansion**: Smooth transition effect that expands the selected card while shrinking others.
+  - **Responsive Design**: Cards adjust and respond to screen sizes, ensuring usability across devices.
+  - **Dynamic Content**: Easily customizable card content for various purposes, such as image galleries or feature highlights.
+- **Purpose**: To provide an engaging way to display content, Ideal for portfolios, galleries, or feature showcases.
+
+---
+
 ### How to Use This Repository
 
 Each project is housed in its own folder once you download you can navigate. 
