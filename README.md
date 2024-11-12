@@ -1,12 +1,13 @@
 # Project Bank
 
-Welcome to my project bank! This repository is a collection of all the projects I've developed. Each entry includes a brief description and any additional information that may be useful. I’ll update this repository with each new project I create, ensuring it reflects the growth and breadth of my work.
+Welcome to my project bank! This repository is a collection of all the projects I've developed.  I’ll update this repository with each new project I create, ensuring it reflects the growth and breadth of my work.
 
 ## Project List
 
 ### 1. Toggle Password Visibility
 ### 2. Expanding Cards
 ### 3. Progress Bar
+### 3. Age Calculator
 
 ---
 
