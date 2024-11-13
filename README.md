@@ -7,7 +7,8 @@ Welcome to my project bank! This repository is a collection of all the projects 
 ### 1. Toggle Password Visibility
 ### 2. Expanding Cards
 ### 3. Progress Bar
-### 3. Age Calculator
+### 4. Age Calculator
+### 5. Rock paper scissors
 
 ---
 

@@ -1,4 +1,7 @@
 /* Reset default browser styles */
+body{
+    background-color: antiquewhite;  
+}
 form {
     margin: 0;
     padding: 0;
