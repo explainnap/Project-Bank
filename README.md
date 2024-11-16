@@ -9,6 +9,8 @@ Welcome to my project bank! This repository is a collection of all the projects 
 ### 3. Progress Bar
 ### 4. Age Calculator
 ### 5. Rock paper scissors
+### 6. Hidden Search
+
 
 ---
 
